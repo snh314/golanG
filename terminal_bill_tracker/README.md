@@ -31,6 +31,9 @@ A lightweight, interactive Command Line Interface (CLI) application built with G
 
 ## Usage Example
 
+## Usage Example
+
+```
 Create a new bill name: bob
 Created the bill - bob
 Choose option (a - add item, s - save bill, t - add tip): a
@@ -43,3 +46,5 @@ you give $ 2.00 tip !! and it's added
 Choose option (a - add item, s - save bill, t - add tip): s
 Bill is saved
 bob's bill has been saved successfully!
+
+```
