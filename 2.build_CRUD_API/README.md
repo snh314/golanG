@@ -18,5 +18,5 @@ A lightweight and efficient RESTful API built with Go and the `gorilla/mux` rout
 
 1. **Clone the repository and navigate to the directory:**
    ```bash
-   git clone <your-repository-url>
-   cd build_CRUD_API
+   git clone https://github.com/snh314/golanG.git
+   cd golanG/2.build_CRUD_APII
