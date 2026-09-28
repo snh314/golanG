@@ -1,0 +1,4 @@
+Bill breakdown:
+Burger:                   ...$5.99
+tip:                      ...$2
+total:                    ...$7.99
